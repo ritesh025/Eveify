@@ -7,7 +7,7 @@ It is built with a performance-first mindset, clean UI, and scalable backend arc
 Eveify aims to become a smart, scalable, and user-centric event ecosystem, making it easier for people to discover experiences that actually matter to them.
 
 
-🔗 ***Live Site: ***
+🔗 ***Live Site: https://eveify.vercel.app/***
 ## 🚀 Features
 
 ✅ **Modern Tech Stack**
@@ -62,4 +62,4 @@ We welcome contributions! If you would like to improve, feel free to fork the re
 
 Deployed on Vercel. 
 
-### 🌐*Link : *
+### 🌐*Link : https://eveify.vercel.app/*
