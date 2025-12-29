@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 🎉 Eveify – Smart Event Organizer & Management
 
-First, run the development server:
+Eveify is a modern event organizing and management platform that helps users discover, explore, and engage with events based on their location, interests, and popularity.
+It is built with a performance-first mindset, clean UI, and scalable backend architecture.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Eveify aims to become a smart, scalable, and user-centric event ecosystem, making it easier for people to discover experiences that actually matter to them.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+🔗 ***Live Site: ***
+## 🚀 Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+✅ **Modern Tech Stack**
 
-## Learn More
+- Nextjs + React
 
-To learn more about Next.js, take a look at the following resources:
+- Tailwind CSS
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Lucide Icons & React Icons
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- ShadCN UI
 
-## Deploy on Vercel
+- Clerk for Authentication
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Responsive Layout (Mobile, Tablet, Desktop)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Dark Mode with Theme Context
+
+- Convex (Realtime backend & database)
+
+- Unsplash API
+
+
+
+## 🛠️ Tech Stack
+
+❇️ **Frontend** → React (Vite)
+
+❇️ **Styling** → Tailwind CSS
+
+❇️ **Animation** → Framer Motion
+
+❇️ **Icons** → Lucide React, Font awesome
+
+❇️ **Backend** → Convex 
+
+## 🤝Contributing
+
+We welcome contributions! If you would like to improve, feel free to fork the repository, create a feature branch, and submit a pull request.
+
+- Fork the repository
+
+- Create a new branch (git checkout -b feature-branch)
+
+- Make your changes
+
+- Commit your changes (git commit -am 'Add new feature')
+
+- Push to the branch (git push origin feature-branch)
+
+- Create a pull request## 📱Deployment
+
+Deployed on Vercel. 
+
+### 🌐*Link : *
